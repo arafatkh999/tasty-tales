@@ -1,0 +1,170 @@
+[
+    {   "id":1,
+        "chef_picture": "https://i.ibb.co/x6gTvsp/louis-hansel-v3-Ol-BE6-fh-U-unsplash.jpg",
+        "chef_name": "John Smith",
+        "years_of_experience": 10,
+        "num_of_recipes": 50,
+        "likes": 500,
+        "chef_description": "Chef John is a highly skilled chef with 10 years of experience in the culinary arts. He specializes in Mediterranean cuisine and has developed a passion for incorporating fresh, locally sourced ingredients in his dishes. His recipes are both flavorful and visually appealing, and he is committed to creating dishes that are healthy and nutritious.",
+        "american_recipes": [
+            {
+            "recipe_name": "BBQ Pulled Pork Sandwiches",
+            "ingredients": ["pork shoulder", "BBQ sauce", "brown sugar", "paprika", "garlic powder"],
+            "cooking_method": "Rub the pork shoulder with the brown sugar, paprika, and garlic powder. Cook in a slow cooker for 8 hours on low. Once cooked, shred the pork and mix in BBQ sauce. Serve on buns with coleslaw and pickles.",
+            "rating": 4.7
+            },
+            {
+            "recipe_name": "Mac and Cheese",
+            "ingredients": ["macaroni", "butter", "flour", "milk", "cheddar cheese"],
+            "cooking_method": "Cook macaroni according to package instructions. In a separate pot, melt butter over medium heat. Whisk in flour until smooth. Gradually add milk, whisking constantly, until sauce is thickened. Add in shredded cheddar cheese and stir until melted. Combine cheese sauce with cooked macaroni and serve.",
+            "rating": 4.5
+            },
+            {
+            "recipe_name": "Fried Chicken",
+            "ingredients": ["chicken thighs", "flour", "paprika", "garlic powder", "buttermilk"],
+            "cooking_method": "Mix flour, paprika, and garlic powder in a bowl. Dip chicken thighs in buttermilk and then coat in flour mixture. Heat oil in a frying pan over medium-high heat. Fry chicken until golden brown and crispy. Serve with mashed potatoes and gravy.",
+            "rating": 4.8
+            }
+            ]
+    },
+    {   "id":2,
+        "chef_picture": "https://i.ibb.co/BVfKdqg/platting-g2aaa2b0ec-640.jpg",
+        "chef_name": "Jane Doe",
+        "years_of_experience": 8,
+        "num_of_recipes": 70,
+        "likes": 700,
+        "chef_description": "Chef Jane is a talented chef with 8 years of experience in the culinary world. She has a passion for creating new and innovative dishes and is constantly experimenting with flavors and textures to create unique dining experiences. Her specialty is Asian cuisine, and she is known for her ability to combine traditional ingredients with modern techniques to create dishes that are both delicious and visually stunning.",
+        "american_recipes": [
+            {
+                "recipe_name": "Burger and Fries",
+                "ingredients": ["ground beef", "buns", "cheddar cheese", "lettuce", "tomato"],
+                "cooking_method": "Form ground beef into patties and season with salt and pepper. Grill or pan-fry until cooked through. Toast buns and top with cheese, lettuce, and tomato. Serve with fries.",
+                "rating": 4.6
+            },
+            {
+                "recipe_name": "Buttermilk Fried Chicken",
+                "ingredients": ["chicken drumsticks", "buttermilk", "flour", "paprika", "garlic powder"],
+                "cooking_method": "Soak chicken drumsticks in buttermilk for at least 1 hour. Mix flour, paprika, and garlic powder in a bowl. Dip chicken in flour mixture and shake off excess. Heat oil in a frying pan over medium-high heat. Fry chicken until golden brown and cooked through. Serve with mashed potatoes and gravy.",
+                "rating": 4.8
+            },
+            {
+                "recipe_name": "Classic Cheeseburger",
+                "ingredients": ["ground beef", "buns", "cheddar cheese", "lettuce", "tomato"],
+                "cooking_method": "Form ground beef into patties and season with salt and pepper. Grill or pan-fry until cooked through. Toast buns and top with cheese, lettuce, and tomato. Serve with fries and ketchup.",
+                "rating": 4.5
+            }
+            ]
+    },
+    {   "id":3,
+        "chef_picture": "https://i.ibb.co/nrNm6DL/pizza-gf9416b12f-640.jpg",
+        "chef_name": "David Lee",
+        "years_of_experience": 15,
+        "num_of_recipes": 90,
+        "likes": 1000,
+        "chef_description": "Chef David is a seasoned chef with 15 years of experience in the culinary arts. He has worked in some of the best restaurants around the world and has developed a deep understanding of different cuisines and cooking techniques. He is passionate about using high-quality ingredients to create dishes that are not only delicious but also visually stunning. His specialty is French cuisine, and he is known for his ability to create classic dishes with a modern twist.",
+        "american_recipes": [
+            {
+                "recipe_name": "Mac and Cheese",
+                "ingredients": ["elbow macaroni", "butter", "flour", "milk", "cheddar cheese"],
+                "cooking_method": "Cook elbow macaroni according to package instructions. Melt butter in a saucepan over medium heat. Add flour and stir until smooth. Gradually add milk and continue stirring until the mixture thickens. Add shredded cheddar cheese and stir until melted. Mix cheese sauce with cooked macaroni. Bake in the oven at 375°F for 20 minutes. Serve hot.",
+                "rating": 4.9
+            },
+            {
+                "recipe_name": "Chicken Pot Pie",
+                "ingredients": ["chicken breast", "pie crust", "carrots", "peas", "chicken broth"],
+                "cooking_method": "Cook chicken breast in a saucepan with chicken broth until cooked through. Remove chicken and set aside. Add chopped carrots and peas to the broth and cook until tender. Cut cooked chicken into small pieces and add to the saucepan. Roll out pie crust and place it in a baking dish. Pour chicken and vegetable mixture over the crust. Cover with another layer of pie crust. Bake in the oven at 425°F for 30 minutes or until crust is golden brown. Serve hot.",
+                "rating": 4.6
+            },
+            {
+                "recipe_name": "Homemade Chili",
+                "ingredients": ["ground beef", "onion", "green bell pepper", "kidney beans", "tomato sauce"],
+                "cooking_method": "Brown ground beef in a saucepan with chopped onion and green bell pepper. Add kidney beans, tomato sauce, and spices such as chili powder, cumin, and garlic powder. Simmer for at least 30 minutes, stirring occasionally. Serve hot with shredded cheddar cheese and sour cream.",
+                "rating": 4.7
+            }
+            ]
+    },
+    {   "id":4,
+        "chef_picture": "https://i.ibb.co/5jsHyWX/cook-gf0ec178ec-640.jpg",
+        "chef_name": "Samantha Garcia",
+        "years_of_experience": 5,
+        "num_of_recipes": 30,
+        "likes": 200,
+        "chef_description": "Chef Samantha is a rising star in the culinary world with 5 years of experience in the industry. She is passionate about using fresh and locally sourced ingredients to create healthy and nutritious dishes. Her specialty is vegan and vegetarian cuisine, and she is known for her ability to create delicious dishes that are both satisfying and nutritious.",
+        "american_recipes": [
+            {
+                "recipe_name": "Cornbread",
+                "ingredients": ["cornmeal", "flour", "sugar", "baking powder", "milk"],
+                "cooking_method": "Preheat oven to 375°F. Mix cornmeal, flour, sugar, baking powder, and salt in a bowl. In a separate bowl, beat eggs and mix in milk. Add wet ingredients to the dry ingredients and stir until just combined. Pour batter into a greased baking pan. Bake for 25-30 minutes or until a toothpick inserted into the center comes out clean. Serve hot with butter and honey.",
+                "rating": 4.5
+            },
+            {
+                "recipe_name": "New England Clam Chowder",
+                "ingredients": ["clams", "potatoes", "bacon", "onion", "heavy cream"],
+                "cooking_method": "Cook bacon in a large pot until crispy. Remove bacon and set aside. Add chopped onion and cook until soft. Add diced potatoes and clam juice to the pot. Simmer until the potatoes are tender. Add chopped clams and heavy cream. Heat until just heated through. Serve hot with crumbled bacon on top.",
+                "rating": 4.6
+            },
+            {
+                "recipe_name": "Southern Fried Catfish",
+                "ingredients": ["catfish fillets", "cornmeal", "flour", "cayenne pepper", "buttermilk"],
+                "cooking_method": "Combine cornmeal, flour, and cayenne pepper in a bowl. Dip catfish fillets in buttermilk and then coat in the cornmeal mixture. Heat oil in a frying pan over medium-high heat. Fry the catfish fillets until golden brown and crispy on both sides. Serve hot with tartar sauce and lemon wedges.",
+                "rating": 4.8
+            }
+            ]
+    },
+    {   "id":5,
+        "chef_picture": "https://i.ibb.co/D18bQYH/james-tahhan-ga59221938-640.jpg",
+        "chef_name": "Michael Kim",
+        "years_of_experience": 12,
+        "num_of_recipes": 80,
+        "likes": 800,
+        "chef_description": "Chef Michael is a skilled chef with 12 years of experience in the culinary arts. He has a passion for creating dishes that are both delicious and visually appealing, and he is constantly experimenting with new flavors and ingredients to create unique and innovative dishes. His specialty is fusion cuisine, and he is known for his ability to combine different cooking techniques and ingredients from different cuisines to create dishes that are both unique and delicious.",
+        "american_recipes": [
+            {
+                "recipe_name": "Mac and Cheese",
+                "ingredients": ["macaroni", "butter", "flour", "milk", "cheddar cheese"],
+                "cooking_method": "Cook macaroni according to package instructions. In a separate saucepan, melt butter over medium heat. Whisk in flour to make a roux. Slowly pour in milk while whisking constantly. Add grated cheddar cheese and continue to stir until melted and smooth. Mix cheese sauce with cooked macaroni. Serve hot with breadcrumbs or additional cheese on top.",
+                "rating": 4.5
+            },
+            {
+                "recipe_name": "Buffalo Chicken Wings",
+                "ingredients": ["chicken wings", "butter", "hot sauce", "vinegar", "celery"],
+                "cooking_method": "Preheat oven to 400°F. Cut chicken wings into drumettes and flats. Season with salt and pepper. Bake in the oven for 40 minutes or until crispy. In a separate saucepan, melt butter and mix in hot sauce and vinegar. Toss baked chicken wings in the sauce until coated. Serve hot with celery sticks and blue cheese dressing.",
+                "rating": 4.7
+            },
+            {
+                "recipe_name": "Beef Stroganoff",
+                "ingredients": ["beef sirloin", "onion", "mushrooms", "sour cream", "egg noodles"],
+                "cooking_method": "Slice beef sirloin into thin strips. Cook egg noodles according to package instructions. In a separate skillet, cook chopped onion until soft. Add sliced mushrooms and cook until tender. Add beef strips and cook until browned on all sides. Mix in sour cream and heat until just heated through. Serve beef mixture over cooked egg noodles.",
+                "rating": 4.5
+            }
+            ]
+    },
+    {   "id":6,
+        "chef_picture": "https://i.ibb.co/WkWTMcs/chef-g5f9db2565-640.jpg",
+        "chef_name": "Emily Chen",
+        "years_of_experience": 7,
+        "num_of_recipes": 40,
+        "likes": 400,
+        "chef_description": "Chef Emily is a talented chef with 7 years of experience in the culinary world. She has a passion for creating new and innovative dishes and is constantly experimenting with flavors and textures to create unique dining experiences. Her specialty is Asian cuisine, and she is known for her ability to combine traditional ingredients with modern techniques to create dishes that are both delicious and visually stunning.",
+        "american_recipes": [
+            {
+                "recipe_name": "Baked Potato",
+                "ingredients": ["russet potato", "butter", "sour cream", "chives", "bacon"],
+                "cooking_method": "Preheat oven to 375°F. Pierce russet potato with a fork several times. Rub with butter and salt. Bake for 45-60 minutes or until tender. Cut a slit on top of the potato and squeeze to open. Top with a dollop of sour cream, chopped chives, and crumbled bacon.",
+                "rating": 4.6
+            },
+            {
+                "recipe_name": "Classic Cheeseburger",
+                "ingredients": ["ground beef", "buns", "cheddar cheese", "lettuce", "tomato"],
+                "cooking_method": "Divide ground beef into 4 equal parts and shape into patties. Season both sides of the patties with salt and pepper. Grill patties over medium-high heat for 4-5 minutes per side or until cooked to desired doneness. Toast buns on the grill for 30 seconds. Top patties with cheddar cheese and let melt. Assemble burgers with lettuce and tomato slices. Serve hot.",
+                "rating": 4.8
+            },
+            {
+                "recipe_name": "Fried Chicken",
+                "ingredients": ["chicken thighs", "buttermilk", "flour", "paprika", "garlic powder"],
+                "cooking_method": "Soak chicken thighs in buttermilk for at least 2 hours. In a separate bowl, mix flour, paprika, and garlic powder. Remove chicken from buttermilk and dredge in the flour mixture. Heat oil in a deep frying pan to 350°F. Fry chicken until golden brown and cooked through, about 10-12 minutes. Drain on paper towels. Serve hot.",
+                "rating": 4.6
+            }
+            ]
+    }
+]
